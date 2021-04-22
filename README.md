@@ -9,7 +9,7 @@
 O PodcastG81 é um App desenvolvido durante a Next Level Week (NLW) 5, que durante o evento recebeu o nome de Podcastr e propocionou diversas trilhas. E nesta de React, foi trabalhado a criação do podcast como tecnologia para compartilhar conhecimentos e depoimentos.
 
 Desenvolvido durante a Next Level Week #5 da Rocketseat.
-![cover]()
+![](https://github.com/Gabrielg81/podcastg81/blob/main/g81_nlw5.png?raw=true=250x)
 
 # Instalação e uso
 ```
