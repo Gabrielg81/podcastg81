@@ -24,6 +24,9 @@ $ cd podcastg81
 # Instale as dependências
 $ yarn install
 
+# Rode o servidor que retorna o JSON para aplicação
+$ yarn server
+
 # Rode o aplicação
 $ yarn start
 ```
